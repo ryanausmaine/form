@@ -1,0 +1,33 @@
+* {
+	font-family: "Times New Roman";
+	font-size: 24px;
+	background-color: skyblue;
+}
+
+main p {
+	text-align: center;
+}
+
+textarea {
+	height: 100px;
+}
+
+input, textarea {
+	background-color: lightblue;
+	width: 100%;
+	margin: 2px;
+	border: black solid 2px;
+}
+
+form {
+	width: 25%;
+	min-width: 200px;
+	margin: auto;
+}
+
+#submitme {
+	background-color: maroon;
+}
+
+
+
